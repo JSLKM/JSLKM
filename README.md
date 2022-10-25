@@ -3,8 +3,12 @@
 - 🔭 I’m currently working on a flutter app
 - 🌱 I’m currently learning web3 stuff
 - 💬 Ask me about travelling
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/songlejin)
-- 😄 Pronouns: he, him, his
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=JSLKM&theme=synthwave&show_icons=true&count_private=true “Andres’ GitHub Stats”)
+📫 How to reach me:  
+<a href="https://www.linkedin.com/in/songlejin"> ![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
+😄 Pronouns: he, him, his
+
+## GitHub Stats
+
+![Metrics](/github-metrics.svg)
