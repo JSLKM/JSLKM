@@ -13,6 +13,6 @@
 
 ![Metrics](/github-metrics.svg)
 
-## Leetcode Stats
+<!-- ## Leetcode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JSLKM)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JSLKM) -->
