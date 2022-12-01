@@ -37,5 +37,7 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_days: 30
           plugin_reactions_details: percentage
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
